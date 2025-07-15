@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Aryayayayaa/Aryayayayaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+````markdown name=README.md
 
-Here are some ideas to get you started:
+I'm currently a student and an intern at **Labmentix Pvt Ltd**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** Python, C, SQL, Java
+
+## 📂 Projects
+
+I don't have a particular "favourite" project—I'm always eager to learn and contribute to a variety of topics!
+
+## 🌐 Connect with Me
+
+Feel free to reach out or connect with me on [LinkedIn](#)  
+<!-- Replace "#" with your actual LinkedIn URL -->
+
+## 🎨 Hobbies
+
+- Art
+- Reading
+- Listening to music
+
+Thank you for visiting my profile!
+````
