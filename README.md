@@ -14,8 +14,7 @@ I don't have a particular "favourite" project—I'm always eager to learn and co
 
 ## 🌐 Connect with Me
 
-Feel free to reach out or connect with me on [LinkedIn](#)  
-<!-- Replace "#" with your actual LinkedIn URL -->
+Feel free to reach out or connect with me on [LinkedIn](www.linkedin.com/in/arya-jain-52a4b7242)  
 
 ## 🎨 Hobbies
 
